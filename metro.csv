@@ -1,0 +1,183 @@
+"Year_Month","Card Type","Operator","Trip"
+"2024-01",Adult,Sydney Metro,709103.0
+"2024-01",CTP,Sydney Metro,513133.0
+"2024-01",Child/Youth,Sydney Metro,154316.0
+"2024-01",Concession,Sydney Metro,84711.0
+"2024-01",Day Pass without SAF,Sydney Metro,21.0
+"2024-01",Employee,Sydney Metro,7477.0
+"2024-01",Free Travel,Sydney Metro,1198.0
+"2024-01",School Student,Sydney Metro,3271.0
+"2024-01",Senior/Pensioner,Sydney Metro,133444.0
+"2024-01",Sgl Trip Rail Adult,Sydney Metro,4261.0
+"2024-01",Sgl Trip Rail Child/Youth,Sydney Metro,7488.0
+"2024-01",UNKNOWN,Sydney Metro,1.0
+"2024-02",Adult,Sydney Metro,829980.0
+"2024-02",CTP,Sydney Metro,623196.0
+"2024-02",Child/Youth,Sydney Metro,94236.0
+"2024-02",Concession,Sydney Metro,154618.0
+"2024-02",Day Pass without SAF,Sydney Metro,13.0
+"2024-02",Employee,Sydney Metro,9141.0
+"2024-02",Free Travel,Sydney Metro,1576.0
+"2024-02",School Student,Sydney Metro,182990.0
+"2024-02",Senior/Pensioner,Sydney Metro,137363.0
+"2024-02",Sgl Trip Rail Adult,Sydney Metro,4369.0
+"2024-02",Sgl Trip Rail Child/Youth,Sydney Metro,4234.0
+"2024-02",UNKNOWN,Sydney Metro,10.0
+"2024-03",Adult,Sydney Metro,810821.0
+"2024-03",CTP,Sydney Metro,606473.0
+"2024-03",Child/Youth,Sydney Metro,73633.0
+"2024-03",Concession,Sydney Metro,228750.0
+"2024-03",Day Pass without SAF,Sydney Metro,5.0
+"2024-03",Employee,Sydney Metro,7752.0
+"2024-03",Free Travel,Sydney Metro,1365.0
+"2024-03",School Student,Sydney Metro,163938.0
+"2024-03",Senior/Pensioner,Sydney Metro,133696.0
+"2024-03",Sgl Trip Rail Adult,Sydney Metro,3291.0
+"2024-03",Sgl Trip Rail Child/Youth,Sydney Metro,2765.0
+"2024-03",UNKNOWN,Sydney Metro,1.0
+"2024-04",Adult,Sydney Metro,789841.0
+"2024-04",CTP,Sydney Metro,593294.0
+"2024-04",Child/Youth,Sydney Metro,118429.0
+"2024-04",Concession,Sydney Metro,169505.0
+"2024-04",Day Pass without SAF,Sydney Metro,8.0
+"2024-04",Employee,Sydney Metro,7928.0
+"2024-04",Free Travel,Sydney Metro,1383.0
+"2024-04",School Student,Sydney Metro,80255.0
+"2024-04",Senior/Pensioner,Sydney Metro,136296.0
+"2024-04",Sgl Trip Rail Adult,Sydney Metro,3458.0
+"2024-04",Sgl Trip Rail Child/Youth,Sydney Metro,5467.0
+"2024-04",UNKNOWN,Sydney Metro,4.0
+"2024-05",Adult,Sydney Metro,900636.0
+"2024-05",CTP,Sydney Metro,683413.0
+"2024-05",Child/Youth,Sydney Metro,71584.0
+"2024-05",Concession,Sydney Metro,209095.0
+"2024-05",Day Pass Child/Youth w/o SAF,Sydney Metro,30.0
+"2024-05",Day Pass without SAF,Sydney Metro,7.0
+"2024-05",Employee,Sydney Metro,9757.0
+"2024-05",Free Travel,Sydney Metro,1728.0
+"2024-05",School Student,Sydney Metro,197296.0
+"2024-05",Senior/Pensioner,Sydney Metro,149043.0
+"2024-05",Sgl Trip Rail Adult,Sydney Metro,3622.0
+"2024-05",Sgl Trip Rail Child/Youth,Sydney Metro,3859.0
+"2024-05",UNKNOWN,Sydney Metro,9.0
+"2024-06",Adult,Sydney Metro,770655.0
+"2024-06",CTP,Sydney Metro,572790.0
+"2024-06",Child/Youth,Sydney Metro,83303.0
+"2024-06",Concession,Sydney Metro,131769.0
+"2024-06",Day Pass without SAF,Sydney Metro,18.0
+"2024-06",Employee,Sydney Metro,9027.0
+"2024-06",Free Travel,Sydney Metro,1629.0
+"2024-06",School Student,Sydney Metro,161338.0
+"2024-06",Senior/Pensioner,Sydney Metro,140630.0
+"2024-06",Sgl Trip Rail Adult,Sydney Metro,3274.0
+"2024-06",Sgl Trip Rail Child/Youth,Sydney Metro,4283.0
+"2024-06",UNKNOWN,Sydney Metro,4.0
+"2024-07",Adult,Sydney Metro,898838.0
+"2024-07",CTP,Sydney Metro,662591.0
+"2024-07",Child/Youth,Sydney Metro,141515.0
+"2024-07",Concession,Sydney Metro,152228.0
+"2024-07",Day Pass Child/Youth w/o SAF,Sydney Metro,0.0
+"2024-07",Day Pass without SAF,Sydney Metro,24.0
+"2024-07",Employee,Sydney Metro,9940.0
+"2024-07",Free Travel,Sydney Metro,1852.0
+"2024-07",School Student,Sydney Metro,92863.0
+"2024-07",Senior/Pensioner,Sydney Metro,161337.0
+"2024-07",Sgl Trip Rail Adult,Sydney Metro,4292.0
+"2024-07",Sgl Trip Rail Child/Youth,Sydney Metro,7534.0
+"2024-08",Adult,Sydney Metro,1512435.0
+"2024-08",CTP,Sydney Metro,1368335.0
+"2024-08",Child/Youth,Sydney Metro,148742.0
+"2024-08",Concession,Sydney Metro,337066.0
+"2024-08",Day Pass Child/Youth w/o SAF,Sydney Metro,2.0
+"2024-08",Day Pass without SAF,Sydney Metro,30.0
+"2024-08",Employee,Sydney Metro,20865.0
+"2024-08",Free Travel,Sydney Metro,4009.0
+"2024-08",School Student,Sydney Metro,227578.0
+"2024-08",Senior/Pensioner,Sydney Metro,353765.0
+"2024-08",Sgl Trip Rail Adult,Sydney Metro,5847.0
+"2024-08",Sgl Trip Rail Child/Youth,Sydney Metro,7237.0
+"2024-09",Adult,Sydney Metro,2029468.0
+"2024-09",CTP,Sydney Metro,2007263.0
+"2024-09",Child/Youth,Sydney Metro,169783.0
+"2024-09",Concession,Sydney Metro,381268.0
+"2024-09",Day Pass Child/Youth w/o SAF,Sydney Metro,6.0
+"2024-09",Day Pass without SAF,Sydney Metro,57.0
+"2024-09",Employee,Sydney Metro,28850.0
+"2024-09",Free Travel,Sydney Metro,5108.0
+"2024-09",School Student,Sydney Metro,257905.0
+"2024-09",Senior/Pensioner,Sydney Metro,430972.0
+"2024-09",Sgl Trip Rail Adult,Sydney Metro,9012.0
+"2024-09",Sgl Trip Rail Child/Youth,Sydney Metro,9708.0
+"2024-09",UNKNOWN,Sydney Metro,2.0
+"2024-10",Adult,Sydney Metro,2267015.0
+"2024-10",CTP,Sydney Metro,2222534.0
+"2024-10",Child/Youth,Sydney Metro,246132.0
+"2024-10",Concession,Sydney Metro,418711.0
+"2024-10",Day Pass without SAF,Sydney Metro,73.0
+"2024-10",Employee,Sydney Metro,30210.0
+"2024-10",Free Travel,Sydney Metro,4899.0
+"2024-10",School Student,Sydney Metro,168292.0
+"2024-10",Senior/Pensioner,Sydney Metro,440236.0
+"2024-10",Sgl Trip Rail Adult,Sydney Metro,10045.0
+"2024-10",Sgl Trip Rail Child/Youth,Sydney Metro,13038.0
+"2024-10",UNKNOWN,Sydney Metro,4.0
+"2024-11",Adult,Sydney Metro,2109880.0
+"2024-11",CTP,Sydney Metro,2172312.0
+"2024-11",Child/Youth,Sydney Metro,169250.0
+"2024-11",Concession,Sydney Metro,298335.0
+"2024-11",Day Pass without SAF,Sydney Metro,31.0
+"2024-11",Employee,Sydney Metro,28927.0
+"2024-11",Free Travel,Sydney Metro,4957.0
+"2024-11",School Student,Sydney Metro,254246.0
+"2024-11",Senior/Pensioner,Sydney Metro,404722.0
+"2024-11",Sgl Trip Rail Adult,Sydney Metro,10607.0
+"2024-11",Sgl Trip Rail Child/Youth,Sydney Metro,9592.0
+"2024-12",Adult,Sydney Metro,2015722.0
+"2024-12",CTP,Sydney Metro,2130226.0
+"2024-12",Child/Youth,Sydney Metro,260684.0
+"2024-12",Concession,Sydney Metro,243105.0
+"2024-12",Day Pass Child/Youth w/o SAF,Sydney Metro,78.0
+"2024-12",Day Pass without SAF,Sydney Metro,68.0
+"2024-12",Employee,Sydney Metro,38795.0
+"2024-12",Free Travel,Sydney Metro,4778.0
+"2024-12",School Student,Sydney Metro,129447.0
+"2024-12",Senior/Pensioner,Sydney Metro,441006.0
+"2024-12",Sgl Trip Rail Adult,Sydney Metro,15169.0
+"2024-12",Sgl Trip Rail Child/Youth,Sydney Metro,19399.0
+"2024-12",UNKNOWN,Sydney Metro,1.0
+"2025-01",Adult,Sydney Metro,1981561.0
+"2025-01",CTP,Sydney Metro,1811236.0
+"2025-01",Child/Youth,Sydney Metro,311132.0
+"2025-01",Concession,Sydney Metro,231005.0
+"2025-01",Day Pass Child/Youth w/o SAF,Sydney Metro,0.0
+"2025-01",Day Pass without SAF,Sydney Metro,36.0
+"2025-01",Employee,Sydney Metro,35806.0
+"2025-01",Free Travel,Sydney Metro,4945.0
+"2025-01",School Student,Sydney Metro,3251.0
+"2025-01",Senior/Pensioner,Sydney Metro,421350.0
+"2025-01",Sgl Trip Rail Adult,Sydney Metro,12597.0
+"2025-01",Sgl Trip Rail Child/Youth,Sydney Metro,19201.0
+"2025-02",Adult,Sydney Metro,2142885.0
+"2025-02",CTP,Sydney Metro,1987659.0
+"2025-02",Child/Youth,Sydney Metro,201729.0
+"2025-02",Concession,Sydney Metro,348220.0
+"2025-02",Day Pass Child/Youth w/o SAF,Sydney Metro,1.0
+"2025-02",Day Pass without SAF,Sydney Metro,39.0
+"2025-02",Employee,Sydney Metro,35862.0
+"2025-02",Free Travel,Sydney Metro,5063.0
+"2025-02",School Student,Sydney Metro,265965.0
+"2025-02",Senior/Pensioner,Sydney Metro,410756.0
+"2025-02",Sgl Trip Rail Adult,Sydney Metro,10449.0
+"2025-02",Sgl Trip Rail Child/Youth,Sydney Metro,9761.0
+"2025-02",UNKNOWN,Sydney Metro,0.0
+"2025-03",Adult,Sydney Metro,2282384.0
+"2025-03",CTP,Sydney Metro,2348751.0
+"2025-03",Child/Youth,Sydney Metro,193067.0
+"2025-03",Concession,Sydney Metro,549591.0
+"2025-03",Day Pass without SAF,Sydney Metro,55.0
+"2025-03",Employee,Sydney Metro,37202.0
+"2025-03",Free Travel,Sydney Metro,5154.0
+"2025-03",School Student,Sydney Metro,303615.0
+"2025-03",Senior/Pensioner,Sydney Metro,426137.0
+"2025-03",Sgl Trip Rail Adult,Sydney Metro,10531.0
+"2025-03",Sgl Trip Rail Child/Youth,Sydney Metro,10766.0
